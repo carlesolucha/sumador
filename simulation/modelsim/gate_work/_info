@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\PR픀TIQUES DEFINITIVES\PR픀TICA 5\pract5\simulation\modelsim
+Esumadornbits
+Z1 w1603875472
+Z2 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+Z3 DPx9 cycloneii 19 cycloneii_atom_pack 0 22 zUjlM<IUJVWSWg:L2<>ic3
+Z4 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z7 DPx9 cycloneii 20 cycloneii_components 0 22 h@gSJ;Al32oYg[7^PbnAR0
+Z8 dC:\altera\13.0sp1\PR픀TIQUES DEFINITIVES\PR픀TICA 5\pract5\simulation\modelsim
+Z9 8pract5.vho
+Z10 Fpract5.vho
+l0
+L34
+V1HBZBJ8k79kmYQ_Mc@L?>3
+Z11 OV;C;10.1d;51
+31
+Z12 !s108 1603875501.201000
+Z13 !s90 -reportprogress|300|-93|-work|work|pract5.vho|
+Z14 !s107 pract5.vho|
+Z15 o-93 -work work -O0
+Z16 tExplicit 1
+!s100 ITK`NV?<5KJ2zNNF3J:DO0
+!i10b 1
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 12 sumadornbits 0 22 1HBZBJ8k79kmYQ_Mc@L?>3
+l90
+L62
+VI^6HRDoYMLTk4ngoAI]WZ3
+R11
+31
+R12
+R13
+R14
+R15
+R16
+!s100 Sa>05b6DchF53N9F3[PeY2
+!i10b 1
+Esumadornbits_vhd_tst
+Z17 w1603725062
+Z18 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R5
+R6
+R8
+Z19 8C:/altera/13.0sp1/PR픀TIQUES DEFINITIVES/PR픀TICA 5/pract5/simulation/modelsim/SumadorNBits.vht
+Z20 FC:/altera/13.0sp1/PR픀TIQUES DEFINITIVES/PR픀TICA 5/pract5/simulation/modelsim/SumadorNBits.vht
+l0
+L31
+V2[Bm2eA>E8^7ceI^be78]1
+!s100 <:Mab@>8RGOKmmiW]@BKf2
+R11
+31
+!i10b 1
+Z21 !s108 1603875501.367000
+Z22 !s90 -reportprogress|300|-93|-work|work|C:/altera/13.0sp1/PR픀TIQUES DEFINITIVES/PR픀TICA 5/pract5/simulation/modelsim/SumadorNBits.vht|
+Z23 !s107 C:/altera/13.0sp1/PR픀TIQUES DEFINITIVES/PR픀TICA 5/pract5/simulation/modelsim/SumadorNBits.vht|
+R15
+R16
+Asumadornbits_arch
+R18
+R5
+R6
+DEx4 work 20 sumadornbits_vhd_tst 0 22 2[Bm2eA>E8^7ceI^be78]1
+l48
+L33
+V`7On1zP>X]XX5A=ZXWzVK1
+!s100 IQZfihz1adkV<jJWKFE_A0
+R11
+31
+!i10b 1
+R21
+R22
+R23
+R15
+R16

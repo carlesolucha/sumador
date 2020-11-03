@@ -1,0 +1,21 @@
+library ieee;
+USE ieee.std_logic_1164.all;
+USE ieee.numeric_std.all;
+
+entity sumador1bit is 
+	port(
+	 a_i : in std_logic;
+	 b_i : in std_logic;
+	 c_i : in std_logic;
+	 s_i : out std_logic;
+	 c_i_mas_1 : out std_logic
+	 
+	);
+end sumador1bit;
+
+architecture behavioral of sumador1bit is
+begin 
+	s_i		<= c_i xor (a_i xor b_i);
+	c_i_mas_1 <= (a_i and b_i ) or ((a_i xor b_i) and c_i);
+	
+end behavioral;
